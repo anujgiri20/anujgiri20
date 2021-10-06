@@ -1,4 +1,4 @@
-<img src="Anuj A. Giri (1) (1).png" alt="nametag">
+<img src="Anuj A. Giri (2) (1).png" alt="nametag">
 ### Hi there 👋
 
 <!--
