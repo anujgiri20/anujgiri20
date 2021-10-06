@@ -34,12 +34,12 @@
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 ![anujgiri20 GitHub stats](https://github-readme-stats.vercel.app/api?username=anujgiri20&show_icons=true&theme=radical) 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujgiri20&theme=radical)](https://git.io/streak-stats) 
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujgiri20&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujgiri20&layout=compact&theme=radical&langs_count=6)
 
