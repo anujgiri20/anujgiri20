@@ -1,5 +1,8 @@
-<img src="Anuj A. Giri (2) (2).png" alt="nametag">
-### Hi there 👋
+<p align="center>
+<img src="Anuj A. Giri (2) (2).png" alt="nametag" height="300px>
+</p>
+  
+  ### Hi there 👋
 
 <!--
 **anujgiri20/anujgiri20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
