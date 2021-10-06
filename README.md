@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="Anuj A. Giri.png" alt="nametag">
+<img src="Anuj A. Giri (1) (1).png" alt="nametag">
 <img alt="contribution" src="https://github.com/anujgiri20/anujgiri20/blob/output/github-contribution-grid-snake.svg" />
