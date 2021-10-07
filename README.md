@@ -39,15 +39,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anujgiri20&show_icons=true&theme=radical" />
 </p>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anujgiri20&layout=compact&theme=radical&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgiri20&layout=compact&theme=radical&langs_count=6" />
 
 
 
-<a align="left">
+<!-- snake -->
 <img alt="contribution"  src="https://github.com/anujgiri20/anujgiri20/blob/output/github-contribution-grid-snake.svg" />
-</a>
+
 
 
 
