@@ -34,7 +34,7 @@
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p>
-<img align="right" width="150" height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width="180" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=anujgiri20&show_icons=true&theme=radical" />
 </p>
