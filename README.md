@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <p align="left">
-<img src="Anuj A. Giri (2) (2).png" alt="nametag" >
+<img src="Anuj A. Giri (4) (1).png" alt="nametag" >
 </p>
 
 <h1>📖 About me</h1>
