@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=anujgiri20&show_icons=true&theme=radical" />
 </p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anujgiri20&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujgiri20&theme=radical" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujgiri20&layout=compact&theme=radical&langs_count=6" />
 
