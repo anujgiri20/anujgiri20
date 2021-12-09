@@ -45,8 +45,8 @@
 
 
 <!-- snake -->
-<img alt="contribution"  src="https://github.com/anujgiri20/anujgiri20/blob/output/github-contribution-grid-snake.svg" />
-
+<!--<img alt="contribution"  src="https://github.com/anujgiri20/anujgiri20/blob/output/github-contribution-grid-snake.svg" />
+-->
 
 
 
