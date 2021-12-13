@@ -5,9 +5,9 @@
 
 <h1>📖 About me</h1>
 
-* 💻 I'm a full stack web developer
+* 💻 Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 * 🎨 I'm a self-taught UI designer
-* 📱  Qualified Gate 2020 & Gate 2021 
+* 📱  Qualified Gate 2020 & Gate 2021 (From CS branch)
 * 🎓 I am a graduate from KDK college of engineering Nagpur Maharashtra in 2020
 <!-- * 🌐 You can see some of my projects on [my portfolio]() -->
 
