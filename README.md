@@ -6,13 +6,13 @@
 
 <h1>📖 About me</h1>
 
-* 💻 Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
+* 💻 Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages.
 
 * 🎨 I'm a self-taught UI designer
 
 * 📱  Qualified Gate 2020 & Gate 2021 (From CS branch)
 
-* 🎓 I am a graduate from KDK college of engineering Nagpur Maharashtra in 2020
+* 🎓 I am a graduate from KDK college of engineering, Nagpur Maharashtra in 2020
 <!-- * 🌐 You can see some of my projects on [my portfolio]() -->
 
 <br />
@@ -41,8 +41,8 @@
 
 <br />
 
-<p align="center" color="red">  “Website without visitors is like a ship lost in the horizon.” - Dr. Christopher Dayagdag </p>
-
+<p align="center" color="red" border="1px solid white">  “Website without visitors is like a ship lost in the horizon.” - Dr. Christopher Dayagdag </p>
+<br />
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p>
