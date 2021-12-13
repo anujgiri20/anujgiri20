@@ -9,7 +9,7 @@
 * 🎨 I'm a self-taught UI designer
 * 📱  Qualified Gate 2020 & Gate 2021 
 * 🎓 I am a graduate from KDK college of engineering Nagpur Maharashtra in 2020
-* 🌐 You can see some of my projects on [my portfolio]()
+<!-- * 🌐 You can see some of my projects on [my portfolio]() -->
 
 ## ⚡ Things I code with
 
