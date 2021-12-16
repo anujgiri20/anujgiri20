@@ -24,6 +24,8 @@
   <img alt="CSS" src="https://img.shields.io/badge/-JavaScript-764ABC?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+     <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
+
   <img alt="Nodejs" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Mongoose-8DD6F9?style=flat-square&logo=Mongoose&logoColor=white" />
