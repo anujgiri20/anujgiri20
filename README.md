@@ -6,13 +6,13 @@
 
 <h1>Certifications</h1>
 
-* Full stack web development (GUVI)
-* Front end development (Udemy)
-* Data Analytics (Simplilearn)
-* Sql (Hackerrank, Simplilearn)
-* Algorithms and data structures (Hackerrank)
-* Javascript (GUVI, Hackerrank)
-* C/C++ (Simplilearn)
+* <h3>Full stack web development (GUVI)</h3>
+* <h3>Front end development (Udemy)</h3>
+* <h3>Data Analytics (Simplilearn)</h3>
+* <h3>Sql (Hackerrank, Simplilearn)</h3>
+* <h3>Algorithms and data structures (Hackerrank)</h3>
+* <h3>Javascript (GUVI, Hackerrank)</h3>
+* <h3>C/C++ (Simplilearn)</h3>
 <!-- * 🌐 You can see some of my projects on [my portfolio]() -->
 
 <br />
@@ -43,7 +43,7 @@
 
 <br />
 
-<p align="center" color="red" border="1px solid white">  “Website without visitors is like a ship lost in the horizon.” - Dr. Christopher Dayagdag </p>
+<h3 align="center" color="red" border="1px solid white">  “Website without visitors is like a ship lost in the horizon.” - Dr. Christopher Dayagdag </h3>
 <br />
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
