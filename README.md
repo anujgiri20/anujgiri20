@@ -1,18 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <p align="left">
-<img src="Anuj A. Giri (4) (1).png" alt="nametag" >
+<img src="Orange and White Funny Dating Animated Presentation.gif" alt="nametag" >
 </p>
 <br />
 
-<h1>📖 About me</h1>
+<h1>Certifications</h1>
 
-* 💻 Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages.
-
-* 🎨 I'm a self-taught UI designer
-
-* 📱  Qualified Gate 2020 & Gate 2021 (From CS branch)
-
-* 🎓 I am a graduate from KDK college of engineering, Nagpur Maharashtra in 2020
+* Full stack web development (GUVI)
+* Front end development (Udemy)
+* Data Analytics (Simplilearn)
+* Sql (Hackerrank, Simplilearn)
+* Algorithms and data structures (Hackerrank)
+* Javascript (GUVI, Hackerrank)
+* C/C++ (Simplilearn)
 <!-- * 🌐 You can see some of my projects on [my portfolio]() -->
 
 <br />
