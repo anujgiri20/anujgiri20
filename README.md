@@ -4,6 +4,25 @@
 </p>
 <br />
 
+<h1>Hobbies</h1>
+<p align="center" >
+   <br />
+   <img src="artist.png"  width="60" />
+   __
+   <img src="music-note.png"  width="60"/>
+  __
+   <img src="movie.png"  width="60"/>
+   __
+   <img src="cricket.png"  width="60"/>
+   __
+   <img src="read.png"  width="60"/>
+   __
+   <img src="chess.png"  width="60"/>__
+   <img src="swimmer.png"  width="60"/>__
+   <img src="tap-dance.png"  width="60"/>
+   </p>
+
+<br />
 <h1>Certifications</h1>
 
 * <h3>Full stack web development (GUVI)</h3>
