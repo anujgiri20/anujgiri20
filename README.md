@@ -24,14 +24,19 @@
 
 <br />
 <!-- <h1>Certifications</h1>
-
-* <h3>Full stack web development (GUVI)</h3>
-* <h3>Front end development (Udemy)</h3>
-* <h3>Data Analytics (Simplilearn)</h3>
-* <h3>Sql (Hackerrank, Simplilearn)</h3>
-* <h3>Algorithms and data structures (Hackerrank)</h3>
-* <h3>Javascript (GUVI, Hackerrank)</h3>
-* <h3>C/C++ (Simplilearn)</h3> -->
+<p>
+   <img src="GuviCertification - 5hUR968Z9J315fM068.png"  width="150" />   
+    <img src=" udmey ui.pdf"  width="150" />  
+   <img src="sql inter hackerrank.png"  width="150" />   
+   <img src="Algorithm problem solving.png"  width="150" />   
+   
+   <img src="download (2).png"  width="150" />   
+   <img src="download (3).png"  width="150" />   
+   <img src="guvi js.png"  width="150" />   
+   <img src="hacker rank sql basic.png"  width="150" />   
+   <img src="sql basic.png"  width="150" />   
+   <img src="sql inter hackerrank.png"  width="150" />   
+</p> -->
 <!-- * 🌐 You can see some of my projects on [my portfolio]() -->
 
 <br />
