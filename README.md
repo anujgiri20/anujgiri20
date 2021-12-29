@@ -25,6 +25,7 @@
 <br />
 <h1>Certifications</h1>
 <p>
+   <img />
    <img src="GuviCertification - 5hUR968Z9J315fM068.png"  width="150" /> 
    <img src="guvi js.png"  width="150" /> 
    <img src="data analy (1).png"  width="150" />  
