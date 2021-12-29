@@ -23,7 +23,7 @@
    </p>
 
 <br />
-<h1>Certifications</h1>
+<!-- <h1>Certifications</h1>
 
 * <h3>Full stack web development (GUVI)</h3>
 * <h3>Front end development (Udemy)</h3>
@@ -31,7 +31,7 @@
 * <h3>Sql (Hackerrank, Simplilearn)</h3>
 * <h3>Algorithms and data structures (Hackerrank)</h3>
 * <h3>Javascript (GUVI, Hackerrank)</h3>
-* <h3>C/C++ (Simplilearn)</h3>
+* <h3>C/C++ (Simplilearn)</h3> -->
 <!-- * 🌐 You can see some of my projects on [my portfolio]() -->
 
 <br />
