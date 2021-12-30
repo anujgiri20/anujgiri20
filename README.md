@@ -42,7 +42,7 @@
 
 <br />
 
-<h1>⚡ Things I code with</h1>
+<h1>⚡Technical skills</h1>
 <p align="center">
    <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="React" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=CSS3&logoColor=white" />
