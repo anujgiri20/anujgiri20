@@ -32,9 +32,9 @@
    <img src="sql basic.png"  width="150" /> 
     <img src="udmey ui.png"  width="150" />  
     <img src="hacker rank sql basic.png"  width="150" />   
+   <img src="download (3).png"  width="150" /> 
     <img src="Algorithm problem solving.png"  width="150" />  
-   <img src="download (3).png"  width="150" />  
-  <img src="download (2).png"  width="150" />   
+    <img src="download (2).png"  width="150" />   
     
 </p>
 <!-- * 🌐 You can see some of my projects on [my portfolio]() -->
