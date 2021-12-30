@@ -3,7 +3,21 @@
 <img src="Orange and White Funny Dating Animated Presentation.gif" alt="nametag" >
 </p>
 <br />
-
+<h1>Certifications</h1>
+<p>
+   <img />
+   <img src="GuviCertification - 5hUR968Z9J315fM068.png"  width="150" /> 
+   <img src="guvi js.png"  width="150" /> 
+   <img src="data analy (1).png"  width="150" />  
+   <img src="sql basic.png"  width="150" /> 
+    <img src="udmey ui.png"  width="150" />  
+    <img src="hacker rank sql basic.png"  width="150" />   
+   <img src="download (3).png"  width="150" /> 
+    <img src="Algorithm problem solving.png"  width="150" />  
+    <img src="download (2).png"  width="150" />   
+    
+</p>
+<br />
 <h1>Hobbies</h1>
 <p align="center" >
    <br />
@@ -23,20 +37,7 @@
    </p>
 
 <br />
-<h1>Certifications</h1>
-<p>
-   <img />
-   <img src="GuviCertification - 5hUR968Z9J315fM068.png"  width="150" /> 
-   <img src="guvi js.png"  width="150" /> 
-   <img src="data analy (1).png"  width="150" />  
-   <img src="sql basic.png"  width="150" /> 
-    <img src="udmey ui.png"  width="150" />  
-    <img src="hacker rank sql basic.png"  width="150" />   
-   <img src="download (3).png"  width="150" /> 
-    <img src="Algorithm problem solving.png"  width="150" />  
-    <img src="download (2).png"  width="150" />   
-    
-</p>
+
 <!-- * 🌐 You can see some of my projects on [my portfolio]() -->
 
 <br />
