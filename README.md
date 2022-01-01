@@ -18,6 +18,15 @@
     
 </p>
 <br />
+<h1>Certifications</h1>
+<p>
+   <img />
+   <img src="sql_5_star.png"  width="170" /> 
+    <img src="Untitled_design-removebg-preview.png"  width="170" />  
+    <img src="10_days_of_javascript_5_star.png"  width="170" />   
+    
+</p>
+<br />
 <h1>Hobbies</h1>
 <p align="center" >
    <br />
